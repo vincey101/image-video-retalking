@@ -1,0 +1,16 @@
+# Environment
+.env
+.env.*
+
+# Temporary files
+temp/
+uploads/
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
